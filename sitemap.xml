@@ -3,17 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://gswkbook.com/categories/</loc>
+    <loc>https://gswkbook.com/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://gswkbook.com/</loc>
+    <loc>https://gswkbook.com/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://gswkbook.com/tags/</loc>
+    <loc>https://gswkbook.com/tags/</loc>
     <priority>0</priority>
   </url>
   
